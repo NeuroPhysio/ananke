@@ -1,5 +1,5 @@
 # title = "Notre-Dame de Paris"
-baseURL = ""
+baseURL = "https://github.com/NeuroPhysio/online/"
 languageCode = "en-us"
 theme = "ananke"
 
